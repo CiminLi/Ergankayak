@@ -1,0 +1,17 @@
+# Geçici ve yedek dosyalar
+_raw_backup/
+*.tmp
+*.bak
+*.log
+
+# Dinamik kullanıcı mesajları (KVKK & Gizlilik)
+api/messages.json
+
+# İşletim sistemi ve IDE dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
