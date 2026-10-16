@@ -48,7 +48,7 @@ Projeyi başka herhangi bir bilgisayara (Windows, macOS veya Linux) çekip çal�
 
 ```bash
 # 1. Projeyi bilgisayarınıza klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/Ergankayak.git
+git clone https://github.com/CiminLi/Ergankayak.git
 
 # 2. Proje dizinine girin
 cd Ergankayak
